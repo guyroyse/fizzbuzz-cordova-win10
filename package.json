@@ -1,0 +1,7 @@
+{
+  "name": "fizzbuzz",
+  "devDependencies": {
+    "cordova": "^6.5.0"
+  },
+  "private": true
+}
