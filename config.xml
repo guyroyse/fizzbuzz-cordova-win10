@@ -26,4 +26,5 @@
     <engine name="windows" spec="~4.4.3" />
     <engine name="ios" spec="~4.3.1" />
     <engine name="android" spec="~6.1.2" />
+    <preference name="windows-target-version" value="10.0" />
 </widget>
